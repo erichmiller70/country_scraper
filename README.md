@@ -14,6 +14,7 @@ This is a Python-based web scraping project that extracts structured country dat
 - Python 3.10
 - requests
 - BeautifulSoup4
+- pandas
 
 ## Use Case
 
